@@ -1,0 +1,10 @@
+############################################
+# problem definition:
+# you have then tosses of a coin
+# Heads=1, Tails =0
+# results are HTHHTHTTTT
+# Q1: What is the best guess about the frequency of H?
+# Q2: How certain are you about thus best guess?
+# Q3: How more confidence do you have in your best guess
+#     compared to a null hypothesis of a fair coin?
+#####################################################

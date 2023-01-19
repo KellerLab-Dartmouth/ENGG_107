@@ -1,0 +1,17 @@
+###########################################################
+# problem definition:
+# You flip a coin 500 times 
+# Heads=1, Tails=0
+# What do you expect as a mean outcome?
+# What is a 95% confidence interval for this mean outcome?
+########################################################
+
+
+#########
+Approaches:
+- Make a flow diagram of the method
+- sketch the figures you want to produce
+- review the function “sample”
+- recycle the old script components
+- hack away and test
+- document…
